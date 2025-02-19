@@ -14,4 +14,4 @@ I’m excited to share my latest project—a Content-Based Movie Recommendation 
 ### `💡 Inspiration`:
 This idea came to my mind after reading an insightful article on GeeksforGeeks about Recommender Systems. The article provided a solid foundation on different recommendation techniques, which motivated me to explore and build this project. You can check out the article here: https://www.geeksforgeeks.org/what-are-recommender-systems/
 
-![Movie app](/gradio_app.jpg)
+![Movie app](gradio_app.jpg)
