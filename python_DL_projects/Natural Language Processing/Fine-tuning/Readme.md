@@ -8,11 +8,12 @@ Using a custom dataset describing my characteristics and background, I fine-tune
 
 The workflow included:
 
-🧠 Loading and preprocessing a custom JSON dataset
-🪶 Applying LoRA fine-tuning for efficient adaptation
-🔧 Training the model with Hugging Face’s Trainer
-💾 Saving and testing the fine-tuned model
+- 🧠 Loading and preprocessing a custom JSON dataset
+- 🪶 Applying LoRA fine-tuning for efficient adaptation
+- 🔧 Training the model with Hugging Face’s Trainer
+- 💾 Saving and testing the fine-tuned model
 
 It was fascinating to see the difference between the model’s answers before and after fine-tuning — now it actually knows who Sógor Gergely is! 🥳
+
 
 #MachineLearning #AI #DeepLearning #LLM #LoRA #FineTuning #NLP #DataScience #HuggingFace #Qwen #GoogleColab #Python #MLProjects #CUDA
