@@ -184,7 +184,7 @@ as:
 
 ------------------------------------------------------------------------
 
-## Girvan--Newman Algorithm
+## Girvan-Newman Algorithm
 
 This method:
 
