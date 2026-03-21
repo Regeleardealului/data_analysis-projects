@@ -31,4 +31,8 @@ Applied:
 🧠 **What this means**  
 The global flight network is a textbook example of a **scale‑free small‑world network**: efficient, clustered, but fragile at its core.
 
+![image](vis1.png)
+![image](vis2.png)
+![image](viz1_dashboard.png)
+
 #DataScience #NetworkAnalysis #GraphTheory #Python #OpenFlights #ComplexNetworks #Aviation #DataVisualization #SmallWorld #ScaleFree #PyVis #Folium #TransportationAnalytics #MachineLearning #BigData
